@@ -2,7 +2,7 @@
 
 ### Hi, welcome to my profil!
 
-<img src="inelastic_scattering_cut.jpg"/>
+<img src="inelastic_scattering_cut.jpg" width="550" height="250"/>
 
 I am a former physicist who switched from science to data analytics. In my repositories you will find a selection of projects from different topics. 
 
