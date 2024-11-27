@@ -4,7 +4,7 @@
 
 <img src="inelastic_scattering_cut.jpg" width="550" height="250"/>
 
-I am a former physicist who switched from science to data analytics. In my repositories you will find a selection of projects from different topics. 
+I am a former physicist who switched from science to data analytics. In my repositories you will find a selection of projects from different topics. My prior work includes working with large scale scientific datasets in the fields of additive manufacturing, remote sensing and solid state physics.
 
 [<img src="linkedin_icon.png" alt="LinkedIn profile" width="25" height="25"/>](https://www.linkedin.com/in/patrick-nigel-hildebrandt-929a151a0/) 
 
